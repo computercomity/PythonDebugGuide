@@ -8,18 +8,18 @@
 
 ###1. 注册 jetbrains 账号
 - 打开 [jetbrains 的官方网站](http://www.jetbrains.com/)
-![Screen Shot 2016-04-18 at 7.56.44 PM.png](./Screen Shot 2016-04-18 at 7.56.44 PM.png)左上角小人型的图标点击注册一个账号，为避免不必要的麻烦，建议使用学校邮箱进行注册，以便申请教育优惠
+![Screen Shot 2016-04-18 at 7.56.44 PM.png](https://github.com/computercomity/PythonDebugGuide/blob/master/Screen%20Shot%202016-04-18%20at%207.56.44%20PM.png?raw=true)左上角小人型的图标点击注册一个账号，为避免不必要的麻烦，建议使用学校邮箱进行注册，以便申请教育优惠
 
-- 注册好之后进行登陆，==以下均需在登录状况下进行==
+- 注册好之后进行登陆，**以下均需在登录状况下进行**
 
 ###2. 下载 PyCharm
-- 选择 IDEs 并打开其中的 PyCharm 选项![Screen Shot 2016-04-18 at 7.57.42 PM.png](./Screen Shot 2016-04-18 at 7.57.42 PM.png)
-- 打开之后先选择 DOWNLOAD NOW 并根据自己的操作系统 下载对应版本的 Professional 版本，然后一边下载一边申请教育优惠![Screen Shot 2016-04-18 at 7.58.18 PM.png](./Screen Shot 2016-04-18 at 7.58.18 PM.png)![Screen Shot 2016-04-18 at 7.58.42 PM.png](./Screen Shot 2016-04-18 at 7.58.42 PM.png)
+- 选择 IDEs 并打开其中的 PyCharm 选项![Screen Shot 2016-04-18 at 7.57.42 PM.png](https://github.com/computercomity/PythonDebugGuide/blob/master/Screen%20Shot%202016-04-18%20at%207.57.42%20PM.png?raw=true)
+- 打开之后先选择 DOWNLOAD NOW 并根据自己的操作系统 下载对应版本的 Professional 版本，然后一边下载一边申请教育优惠![Screen Shot 2016-04-18 at 7.58.18 PM.png](https://github.com/computercomity/PythonDebugGuide/blob/master/Screen%20Shot%202016-04-18%20at%207.58.18%20PM.png?raw=true)![Screen Shot 2016-04-18 at 7.58.42 PM.png](https://github.com/computercomity/PythonDebugGuide/blob/master/Screen%20Shot%202016-04-18%20at%207.58.42%20PM.png?raw=true)
 
 ###3. 申请教育优惠。
-- 点击右上角的 Buy 按钮， 并选择第三个标签: [DISCOUNTED AND COMPLIMENTARY LICENSE](https://www.jetbrains.com/pycharm/buy/#edition=discounts)。选择 “For students and teachers”。![Screen Shot 2016-04-18 at 7.59.18 PM.png](./Screen Shot 2016-04-18 at 7.59.18 PM.png)
-- 接下来你会看到相应条款，滑倒最下方，有 APPLY 按钮，进入。![Screen Shot 2016-04-18 at 7.59.39 PM.png](./Screen Shot 2016-04-18 at 7.59.39 PM.png)
-- 选择 I'm a student 并填写姓名和邮箱（必须为学校提供的 @link.cuhk.edu.cn 或其他以 .edu 域名结尾的邮箱）。![Screen Shot 2016-04-18 at 8.00.14 PM.png](./Screen Shot 2016-04-18 at 8.00.14 PM.png)然后回进行两轮邮件认证。最后你会看到 License 激活页面，此时你已经可以免费使用专业版的 PyCharm 了。
+- 点击右上角的 Buy 按钮， 并选择第三个标签: [DISCOUNTED AND COMPLIMENTARY LICENSE](https://www.jetbrains.com/pycharm/buy/#edition=discounts)。选择 “For students and teachers”。![Screen Shot 2016-04-18 at 7.59.18 PM.png](https://github.com/computercomity/PythonDebugGuide/blob/master/Screen%20Shot%202016-04-18%20at%207.59.18%20PM.png?raw=true)
+- 接下来你会看到相应条款，滑倒最下方，有 APPLY 按钮，进入。![Screen Shot 2016-04-18 at 7.59.39 PM.png](https://github.com/computercomity/PythonDebugGuide/blob/master/Screen%20Shot%202016-04-18%20at%207.59.39%20PM.png?raw=true)
+- 选择 I'm a student 并填写姓名和邮箱（必须为学校提供的 @link.cuhk.edu.cn 或其他以 .edu 域名结尾的邮箱）。![Screen Shot 2016-04-18 at 8.00.14 PM.png](https://github.com/computercomity/PythonDebugGuide/blob/master/Screen%20Shot%202016-04-18%20at%208.00.14%20PM.png?raw=true)然后回进行两轮邮件认证。最后你会看到 License 激活页面，此时你已经可以免费使用专业版的 PyCharm 了。
 
 ###4. 安装 PyCharm
 - Mac 用户直接打开下载的文件并拖拽其进入应用程序文件夹即可
@@ -30,24 +30,19 @@
 打开 PyCharm 后，先选择以前没有使用过 PyCharm，然后在激活页面选择“使用jetbrains账户登录”，输入刚才拿到 License 的帐户和密码。即可激活 PyCharm
 
 ###6. 配置你的 PyCharm
-- 配置 Python 解释器，打开左上角菜单栏中的设定窗口，找到Project：，打开Project Interpreter 并选择一个解释器（我们用的是 python3，Windows 用户需找到原来的 Python 安装目录下的可执行文件 .exe）![Screen Shot 2016-04-18 at 9.37.29 PM.png](./Screen Shot 2016-04-18 at 9.37.29 PM.png)
-- 配置编辑器字体，大小与颜色，进入设定窗口中的以下选项，**如需更改，需要先把系统默认设定另存为，才能在此基础上进行更改**。![Screen Shot 2016-04-18 at 9.38.02 PM.png](./Screen Shot 2016-04-18 at 9.38.02 PM.png)
+- 配置 Python 解释器，打开左上角菜单栏中的设定窗口，找到Project：，打开Project Interpreter 并选择一个解释器（我们用的是 python3，Windows 用户需找到原来的 Python 安装目录下的可执行文件 .exe）![Screen Shot 2016-04-18 at 9.37.29 PM.png](https://github.com/computercomity/PythonDebugGuide/blob/master/Screen%20Shot%202016-04-18%20at%209.37.29%20PM.png?raw=true)
+- 配置编辑器字体，大小与颜色，进入设定窗口中的以下选项，**如需更改，需要先把系统默认设定另存为，才能在此基础上进行更改**。![Screen Shot 2016-04-18 at 9.38.02 PM.png](https://github.com/computercomity/PythonDebugGuide/blob/master/Screen%20Shot%202016-04-18%20at%209.38.02%20PM.png?raw=true)
 
 ###7. 你现在可以愉快地使用 PyCharm 的强大功能了。
 
 ##2. 使用 PyCharm 进行 debug
 
-- 使用 PyCharm 打开你的 Python 工程文件夹，并打开想要 debug 的文件。现在你可以编辑文件，PyCharm 提供非常强大的代码补全、代码查错及高亮，代码风格检查，代码跳转等功能。![Screen Shot 2016-04-18 at 9.50.37 PM.png](/Users/JasonGT/Desktop/Screen Shot 2016-04-18 at 9.50.37 PM.png)
-- 你可以单击某一行的左侧，在此行设置一个断点![Screen Shot 2016-04-18 at 9.50.53 PM.png](/Users/JasonGT/Desktop/Screen Shot 2016-04-18 at 9.50.53 PM.png)
-- 然后右键，选择 debug 此文件，文件将会被运行，运行到断点位置时暂停，并在屏幕上显示运到此处时前面所有的变量情况，引用情况。如果想一步步看代码运行情况，可以使用 f8 功能键，一行一行执行代码，直到查出错误。![Screen Shot 2016-04-18 at 9.51.13 PM.png](/Users/JasonGT/Desktop/Screen Shot 2016-04-18 at 9.51.13 PM.png)![Screen Shot 2016-04-18 at 9.51.45 PM.png](/Users/JasonGT/Desktop/Screen Shot 2016-04-18 at 9.51.45 PM.png)
+- 使用 PyCharm 打开你的 Python 工程文件夹，并打开想要 debug 的文件。现在你可以编辑文件，PyCharm 提供非常强大的代码补全、代码查错及高亮，代码风格检查，代码跳转等功能。![Screen Shot 2016-04-18 at 9.50.37 PM.png](https://github.com/computercomity/PythonDebugGuide/blob/master/Screen%20Shot%202016-04-18%20at%209.50.37%20PM.png?raw=true)
+- 你可以单击某一行的左侧，在此行设置一个断点![Screen Shot 2016-04-18 at 9.50.53 PM.png](https://github.com/computercomity/PythonDebugGuide/blob/master/Screen%20Shot%202016-04-18%20at%209.50.53%20PM.png?raw=true)
+- 然后右键，选择 debug 此文件，文件将会被运行，运行到断点位置时暂停，并在屏幕上显示运到此处时前面所有的变量情况，引用情况。如果想一步步看代码运行情况，可以使用 f8 功能键，一行一行执行代码，直到查出错误。![Screen Shot 2016-04-18 at 9.51.13 PM.png](https://github.com/computercomity/PythonDebugGuide/blob/master/Screen%20Shot%202016-04-18%20at%209.51.13%20PM.png?raw=true)![Screen Shot 2016-04-18 at 9.51.45 PM.png](https://github.com/computercomity/PythonDebugGuide/blob/master/Screen%20Shot%202016-04-18%20at%209.51.45%20PM.png?raw=true)
 
 #### 如需更多帮助，你可以：
 #### 1. 加入计算机协会
 #### 2. 咨询计算机协会技术人员
 
-![Screen Shot 2016-04-18 at 8.05.18 PM.png](./Screen Shot 2016-04-18 at 8.05.18 PM.png)
-
-
-
-
-
+![Screen Shot 2016-04-18 at 8.05.18 PM.png](https://github.com/computercomity/PythonDebugGuide/blob/master/Screen%20Shot%202016-04-18%20at%208.05.18%20PM.png?raw=true)
